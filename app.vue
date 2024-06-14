@@ -1,5 +1,6 @@
 <template>
-  <NuxtLayout>
+  <NuxtLayout class="font-Montserrat">
     <NuxtPage />
+    <UNotifications />
   </NuxtLayout>
 </template>
